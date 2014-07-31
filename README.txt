@@ -1,1 +1,1 @@
-1.1 Version B
+1.2 Version
